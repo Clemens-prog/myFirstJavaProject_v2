@@ -2,6 +2,6 @@ package vecka6.Git;
 
 public class HelloWorld {
     static void main(String[] args) {
-        System.out.println("Hello Master!");
+        System.out.println("Hello Cat!");
     }
 }
